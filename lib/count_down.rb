@@ -4,8 +4,8 @@ def countdown
   while counter > 0 do
    puts counter
    counter -= 1
-  end 
+  end
  puts "Happy New Year!"
-end 
+end
 
 countdown
